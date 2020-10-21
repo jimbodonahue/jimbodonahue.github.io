@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-#  name             : "Your Sidebar Name"
+  name             : "Sidebar"
   avatar           : "DSC_9305.png"
-  bio              : "Friendly economist with intersts in labor economics, monetary policy, Bayesian econometrics, whitewater kayaking, and economic modeling"
+  bio              : "Friendly coffee junkie with intersts in labor economics, monetary policy, Bayesian econometrics, whitewater kayaking, and economic modeling"
   location         : "Hamburg, Germany"
   employer         : "Statista, GmbH
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            : "mailto:jimbodonahue@gmail.com"
+  email            : "jimbodonahue@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : # "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "@jimbodonahue"
+  twitter          : "jimbodonahue"
   vine             :
   weibo            :
   xing             :
