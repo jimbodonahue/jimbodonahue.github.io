@@ -1,22 +1,52 @@
 var addressPoints = [
   [
-    "Berkeley CA, USA",
-    37.8708393,
-    -122.2728638
+    "Puerto Varas, Chile",
+    -41.32,
+    -72.99
   ],
   [
-    "London, UK",
-    51.5073219,
-    -0.1276473
+    "San Jose, Costa Rica",
+    9.93,
+    -84.1
   ],
   [
-    "San Francisco, California",
-    37.7792808,
-    -122.4192362
+    "Ducktown, TN, USA",
+    35.03,
+    -84.38
   ],
   [
-    "Los Angeles, CA",
-    34.0543942,
-    -118.2439408
+    "Hartford, TN, USA",
+    35.82,
+    -83.15
+  ]
+  [
+    "Nashville, TN, USA",
+    36.13,
+    -86.83
+  ]
+  [
+    "Nanjing, China",
+    31.93,
+    118.89
+  ]
+  [
+    "Phnom Penh, Cambodia",
+    11.54,
+    104.91
+  ]
+  [
+    "Tel Aviv, Israel",
+    32.07,
+    34.78
+  ]
+  [
+    "Berlin, Germany",
+    52.48,
+    13.35
+  ]
+  [
+    "Hamburg, Germany",
+    53.52,
+    10
   ]
 ];
