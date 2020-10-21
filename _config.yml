@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter @jimbodonahue
+  username               : &twitter jimbodonahue
 facebook:
   username               :
   app_id                 :
