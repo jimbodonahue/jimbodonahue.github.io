@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "James Donahue"
-  avatar           : <img src="DSC_9305.JPG" alt="Seemed like a good idea at the time">
+  avatar           : "DSC_9305.JPG"
   bio              : "Friendly economist with intersts in labor economics, monetary policy, Bayesian econometrics, whitewater kayaking, and economic modeling"
   location         : "Hamburg, Germany"
   employer         : "Statista, GmbH
