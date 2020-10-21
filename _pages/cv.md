@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.A. in Economics, University of Tennessee, 2009
+* M.A. in International and European Studies, CIFE, 2017
+* M.Sc. in Ecnomics, Univerität Hamburg, 2020
 
 Work experience
 ======
