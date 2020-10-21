@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               : # "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -84,10 +84,10 @@ author:
   avatar           : "DSC_9305.jpg"
   bio              : "Friendly economist with intersts in labor economics, monetary policy, Bayesian econometrics, whitewater kayaking, and economic modeling"
   location         : "Hamburg, Germany"
-  employer         :
+  employer         : "Statista, GmbH
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
-  email            :
+  email            : "mailto:jimbodonahue@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "jimbodonahue"
+  twitter          : "@jimbodonahue"
   vine             :
   weibo            :
   xing             :
@@ -228,14 +228,14 @@ defaults:
       share: true
       comments: true
   # _portfolio
-  - scope:
-      path: ""
-      type: portfolio
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comment: true
+ # - scope:
+ #     path: ""
+ #     type: portfolio
+ #   values:
+ #     layout: single
+ #     author_profile: true
+ #     share: true
+ #     comment: true
   # _talks
   - scope:
       path: ""
