@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "James Donahue"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "James Donahue"
 description              : &description "Economist, writer, kayaker, nerd"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sidebar"
+  name             : "James Donahue"
   avatar           : "DSC_9305.png"
-  bio              : "Friendly coffee junkie with intersts in labor economics, monetary policy, Bayesian econometrics, whitewater kayaking, and economic modeling"
+  bio              : "Economist, coffee junkie, writer, nerd"
   location         : "Hamburg, Germany"
   employer         : "Statista, GmbH"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
@@ -178,7 +178,7 @@ collections:
     output: true
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false
     permalink: /:collection/:path/
   portfolio:
     output: true
