@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "James Donahue's Personal Website"
+title                    : ""
 title_separator          : "-"
 name                     : &name "James Donahue"
 description              : &description "Economist, writer, kayaker, nerd"
