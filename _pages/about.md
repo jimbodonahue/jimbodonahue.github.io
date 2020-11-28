@@ -16,4 +16,4 @@ I intend to use this site as a place where I keep my musings, scribblings, and t
 
 About contacting me
 -----
-If you ever feel the desire to contact me, please do so. The easiest way is [by email](mailto:jimbodonahue@gmail.com).
+If you ever feel the desire to contact me, please do so. The easiest way is [by email](mailto:jimbodonahue@gmail.com). Sometimes I [tweet](twitter.com/jimbodonahue), but mostly I just like other people' tweets.
