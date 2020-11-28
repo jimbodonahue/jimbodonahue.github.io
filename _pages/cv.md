@@ -63,4 +63,4 @@ Languages
 
 Current CV
 ---
-For a PDF version of my CV, please [click here](https://github.com/jimbodonahue/jimbodonahue.github.io/blob/master/_pages/DonahueCV.pdf "Donahue CV") _(updated November 2020)_
+For a PDF version of my CV, please [click here](https://github.com/jimbodonahue/jimbodonahue.github.io/raw/master/_pages/DonahueCV.pdf "Donahue CV") _(updated November 2020)_
