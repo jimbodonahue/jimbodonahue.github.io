@@ -19,7 +19,7 @@ Work experience
 ======
 * **Associate in Editorial Research Intelligence, Statista GmbH**  _September 2020 to present_
   * Evaluating and contextualizing data in a way which is accessible to the Statista audience.
-	* Proofreading, copy-editing, and generating content for various teams on a variety of topics.
+  * Proofreading, copy-editing, and generating content for various teams on a variety of topics.
 
 * **Research assistant to Prof. Dr. Olaf Posch** _November 2019 to May 2020_
   * Collecting and cleaning macroeconomic and financial data for academic papers.
@@ -27,7 +27,7 @@ Work experience
 
 * **Student assistant, Statista GmbH** _August 2018 to October 2019_
   * Researching financial data and updating the statistics database.
-	* Generating tailored content following the Statista style guide.
+  * Generating tailored content following the Statista style guide.
 
 * **Trip leader, Wildwater Ltd** _Summers 2006 to 2017_
   * Leading whitewater rafting trips with up to 12 boats.
@@ -50,6 +50,7 @@ Computer programs
 **Econometric programs**
   * Matlab, Stata, Dynare _advanced_
   * EViews, Gauss _familiar_
+  
 **Other software**
   * MS Office, LaTeX _advanced_
   * Python _familiar_
@@ -57,6 +58,6 @@ Computer programs
 Languages
 ===========
 **English** _native proficiency_
-**German, Spanish** _basic proficiency
+**German, Spanish** _basic proficiency_
 
 
