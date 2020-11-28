@@ -60,4 +60,6 @@ Languages
 **English** _native proficiency_
 **German, Spanish** _basic proficiency_
 
-
+Current CV
+---
+For a PDF version of my CV, please [click here](https://jimbodonahue.github.io/_pages/DonahueCV.pdf "Donahue CV") _(updated November 2020)_
