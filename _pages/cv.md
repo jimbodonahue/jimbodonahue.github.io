@@ -9,6 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
+For a PDF version (_updated November 2020)_, please [**click here**](https://github.com/jimbodonahue/jimbodonahue.github.io/raw/master/_pages/DonahueCV.pdf "Donahue CV")
 
 Education
 ======
@@ -62,6 +63,5 @@ Languages
 
 **German, Spanish:** _basic proficiency_
 
-Current CV
----
-For a PDF version of my CV, please [click here](https://github.com/jimbodonahue/jimbodonahue.github.io/raw/master/_pages/DonahueCV.pdf "Donahue CV") _(updated November 2020)_
+
+
