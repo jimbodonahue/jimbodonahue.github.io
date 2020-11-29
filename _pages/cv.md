@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-==================
+
+
 Education
 ======
 * **Bachelor of Arts, Economics,** University of Tennessee, _2009_
