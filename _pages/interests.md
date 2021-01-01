@@ -1,16 +1,9 @@
 ---
-title: 'Research interests entering 2021'
-date: 2021-01-01-
+title: 'Research Goals for 2021'
 permalink: /interests/
-tags:
-  - macroeconomics
-  - labor market
-  - monetary policy
-  - quantitative methods
 ---
 
-Overall Goal
-======
+
 
 In 2021 I would like to deepen my knowledge of macroeconomics, particularly in regards to the labor market. Specifically, I am interested in examining the effects of search frictions in the face of heterogeneous preferences and actions. I would also like to explore the effects of monetary policy on the labor market, particularly in the light of the flattening Phillips curve. Finally, given the massive break in macroeconomic variables in March 2020 for most economies, forecasting techniques for macroeconomic variables require exploitation of non-traditional data, particularly high-frequency data, to understand the current environment. I would enjoy exploring these techniques, particularly in relation to the effects on different industries.
 
