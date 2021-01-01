@@ -1,15 +1,8 @@
 ---
-title: 'Masters Project Guide'
-date: 2020-12-08
+title: 'Suggestions for early MSc Econ students'
 permalink: /masters_guide/
-tags:
-  - projects
-  - blog post
-  - guide
 ---
 
-Suggestions for early MSc Econ students
-============
 
 This is just a collection of thoughts that I wish I'd had before starting working on seminar papers and presentations for my masters. I take no credit (blame) for the good (bad) advice herein. Feel free to contact me with questions or feedback 
 
