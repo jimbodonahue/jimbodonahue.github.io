@@ -1,7 +1,7 @@
 ---
 title: 'Masters Project Guide'
 date: 2020-12-08
-permalink: /masters_guide
+permalink: /masters_guide/
 tags:
   - projects
   - blog post
