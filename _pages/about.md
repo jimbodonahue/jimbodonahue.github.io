@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Personal Website"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,8 +10,8 @@ redirect_from:
 
 I'm just a friendly coffee junkie with intersts in labor economics, monetary policy, Bayesian econometrics, whitewater kayaking, and economic modeling. Raised in Nashville, living in Hamburg, with international experience in a number of countries. My academic background is in economics, with a bit of international studies thrown in. My varied work history indicates that I have numberous interests, but I have several themes that continue to arise.
 
-What to find on this website
-======
+What to find on this here
+-----
 Currently this site simply contains my research interests and CV, as well as a collection of things I wish I had known when I started my MSc. in Economics. More will find its way here, but for now I will keep it simple.
 
 About contacting me
