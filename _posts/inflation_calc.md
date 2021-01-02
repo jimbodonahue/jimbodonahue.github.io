@@ -1,5 +1,5 @@
 ---
-title: 'Quick and Dirty Inflation Calculator
+title: 'Quick and Dirty Inflation Calculator'
 permalink: /blog/inflation_calc/
 ---
 
