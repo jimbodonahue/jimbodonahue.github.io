@@ -1,5 +1,6 @@
 ---
 title: 'Suggestions for MSc Econ students'
+date: 2020-12-12
 permalink: /blog/project_guide/
 ---
 
