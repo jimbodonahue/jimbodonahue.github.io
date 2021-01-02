@@ -12,9 +12,6 @@ main:
  # - title: "Portfolio"
  #   url: /portfolio/
         
-  - title: "Blog"
-    url: /blog/
-    
   - title: "CV"
     url: /cv/
     
@@ -26,3 +23,7 @@ main:
     
 #  - title: "Masters Project Guide"
 #    url: /masters_guide/
+
+  - title: "Blog"
+    url: /blog/
+    
