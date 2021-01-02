@@ -12,8 +12,8 @@ I'm just a friendly coffee junkie with intersts in labor economics, monetary pol
 
 What to find here
 -----
-Currently this site simply contains my research interests and CV, as well as a collection of things I wish I had known when I started my MSc. in Economics. More will find its way here, but for now I will keep it simple.
+Currently this site simply contains my research interests and CV, as well as a few scribblings. More will find its way here, but for now I will keep it simple.
 
 About contacting me
 -----
-If you ever feel the desire to contact me, please do so. The easiest way is [by email](mailto:jimbodonahue@gmail.com). Sometimes I [tweet](twitter.com/jimbodonahue), but mostly I just like other people's tweets.
+If you ever feel the desire to contact me, please do so. The easiest way is by [email](mailto:jimbodonahue@gmail.com). Sometimes I [tweet](twitter.com/jimbodonahue), but mostly I just like other people's tweets.
