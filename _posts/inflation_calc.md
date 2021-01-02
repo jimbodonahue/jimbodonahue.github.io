@@ -1,6 +1,7 @@
 ---
 title: 'Quick and Dirty Inflation Calculator'
-permalink: /inflation_calc/
+date: 2020-01-02
+permalink: /posts/inflation_calc/
 ---
 
 You know that feeling when you're reading something that doesn't adjust for inflation? For example, [this article](https://thewire.in/film/what-are-the-highest-grossing-christmas-movies) claims that "The Grinch" (2018) grossed about 10% more than Home Alone (1990). But, assuming that the bulk of the profits were made in the first year after release and that the values given are nominal, what happens when we adjust for inflation?
