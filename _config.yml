@@ -8,6 +8,7 @@
 # Site Settings
 locale                   : "en-US"
 title                    : "Home"
+subtitle                 : "Man of Danger"
 title_separator          : "-"
 name                     : &name "James Donahue"
 description              : &description "Economist, writer, kayaker, nerd"
@@ -48,6 +49,7 @@ staticman:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
+minimal_mistakes_skin    : "dark" 
 
 # SEO Related
 google_site_verification :
