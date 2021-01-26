@@ -1,6 +1,5 @@
 ---
 title: 'Quick and Dirty Inflation Calculator'
-date: 2021-01-02
 permalink: /posts/inflation_calc/
 ---
 
