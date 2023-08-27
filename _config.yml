@@ -13,17 +13,18 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: James Donahue and his Scribblings
+title: "James Donahue and his Scribblings"
 email:
-description: >- # this means to ignore newlines until "baseurl:"
-  I am just your average macroeconomist with an interest in the labor market, Bayesian statistics, vermicomposting, international relations, and folk music.
-twitter_username: jimbodonahue
-github_username: jimbodonahue
-minimal_mistakes_skin: neon
+description: "I am just your average macroeconomist with an interest in the labor market, Bayesian statistics, vermicomposting, international relations, and folk music."
+twitter_username: "jimbodonahue"
+github_username: "jimbodonahue"
+minimal_mistakes_skin: "neon"
+url: "jimbodonahue.github.io"
 search: true
 
 # Build settings
 markdown: kramdown
+highlighter: rouge
 remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
