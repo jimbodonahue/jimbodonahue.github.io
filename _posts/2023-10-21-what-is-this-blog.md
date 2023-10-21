@@ -1,11 +1,10 @@
 ---
-title: "W"
+title: "What is this blog?"
 categories:
   - Blog
 tags:
-  - link
-  - Post Formats
-link: https://github.com
+  - navalgazing
+  - meta
 ---
 
 This blog is a place where I will collect scribblings on data methods, software I'm trying to use, and anything else that catches my interest at that particular moment. Everything is the subjective opinion of whatever version of James was working at that time and may be disavowed by any future James.
