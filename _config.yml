@@ -64,13 +64,13 @@ author:
   bio    : "The macroeconomist you didn't know you wanted to hang out with."
   links:  
     - label: "Email"
-      icon: "fab fa-fw fa-envelope"
+      icon: "fas fa-envelope"
       url: "mailto:jimbodonahue@gmail.com" 
 
 footer:
   links:
     - label: "Email"
-      icon: "fab fa-fw fa-envelope"
+      icon: "fas fa-envelope"
       url: "mailto:jimbodonahue@gmail.com" 
 
 defaults:
