@@ -10,5 +10,5 @@ main:
     url: /about/
     description: "For those who want to understand the brain that created this"
   - title: "CV"
-  - url: /cv/
-  description: "If anyone wants to know concrete details"
+    url: /cv/
+    description: "If anyone wants to know concrete details"
