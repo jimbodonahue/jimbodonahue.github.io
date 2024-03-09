@@ -4,5 +4,4 @@ permalink: /cv/
 author_profile: true
 ---
 
-  <embed src="Donahue CV.pdf" width="500" height="375" 
- type="application/pdf">
+<object data="{{ Donahue CV.pdf }}" width="1000" height="1000" type='application/pdf'/>
