@@ -1,11 +1,14 @@
 main:
   - title: "Posts"
     url: /posts/
+    description: "The scribblings you came here to read"
 #  - title: "Categories"
 #    url: /categories/
 #  - title: "Tags"
 #    url: /tags/
   - title: "About"
     url: /about/
+    description: "For those who want to understand the brain that created this"
   - title: "CV"
   - url: /cv/
+  description: "If anyone wants to know concrete details"
