@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "James Donahue and his Scribblings"
 email: jimbodonahue@gmail.com
-description: "I am just your average macroeconomist who goes deep into the labor market, Bayesian statistics, vermicomposting, international relations, and folk music."
+description: "I am just your average macroeconomist who goes deep into the labor market, programming, Bayesian statistics (and data analytics in general), vermicomposting, international relations, and folk music."
 #twitter_username: "jimbodonahue"
 github_username: "jimbodonahue"
 minimal_mistakes_skin: "dark"
@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "James Donahue"
   avatar : "/assets/images/headshot.jpg"  # Get avatar 
-  bio    : "The macroeconomist you didn't know you wanted to hang out with."
+  bio    : "The data nerd you didn't know you wanted to hang out with."
   links:  
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
@@ -84,7 +84,7 @@ defaults:
       read_time: true
       comments: true
       share: true
-      related: true
+      related: false
   # _pages
   - scope:
       path: "_pages"
