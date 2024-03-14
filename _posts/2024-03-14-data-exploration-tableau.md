@@ -11,7 +11,6 @@ tags:
 ---
 
 # Exploring data with Tableau
-========================
 
 For a recent job application, I was asked to present a story from the [ACLED](jimbodonahue.github.io) dataset, using only North American data from the last few years. As the project was in Tableau, I decided to use that for my exploration. I present it here, either for insight into my process or inspiration for others.
 
