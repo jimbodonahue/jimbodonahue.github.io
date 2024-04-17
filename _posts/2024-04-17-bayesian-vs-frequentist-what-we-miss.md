@@ -9,6 +9,8 @@ tags:
   - education
 ---
 
+# Bayesian vs Frequentist: what we (often) miss?
+
 After a semester of coaching a friend through their stats course for a non-mathy degree, I found myself in the tired position of explaining again what a confidence interval means. At some point, I realized that my friend was just looking for, "Is it significant™?" Really, the underlying question was, "What number can I find to make my teacher not yell at me?"
 
 Of course, this question is not specific to teachers. It could be coworkers, managers, or even customers who are demanding the idea of statistical significance. And even if you find it, you wither risk getting called out for p-hacking or present some Bayesian posterior which confuses most audiences. I know what you're thinking: do I a better way?
