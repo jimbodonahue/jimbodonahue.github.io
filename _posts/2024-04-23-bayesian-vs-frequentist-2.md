@@ -12,7 +12,7 @@ tags:
   - nerdy
 ---
  
- # Where we left off
+# Where we left off
 
 Last week I was busy ranting about how much easier it is to interpret Bayesian outputs, both for statisticians and normal people (understanding that "normal" is simply a setting on the washing machine). But that gets in front of a bigger, and often overlooked, question: what are these outputs about, anyway?
 
