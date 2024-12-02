@@ -3,7 +3,7 @@ permalink: /about/
 title: "About"
 ---
 # Job market status
-I am currently on the job market. If you are reading this and want to employ me, remotely or in the greater Hamburg area, please get in contact. Ich kann auch Deutsch sprechen, falls das relevant ist (Niveau B2). A link to my CV should appear on this site, or you can [email me](mailto:jimbodonahue@gmail.com).
+I am currently on the job market. If you are reading this and want to employ me, remotely or in the greater Hamburg area, please get in contact. A link to my CV should appear on this site, or you can [email me](mailto:jimbodonahue@gmail.com).
 
 # James as a Data Scientist
 
