@@ -12,6 +12,8 @@ My empirical prowess stems from my economics education. After the two-year Maste
 
 I also have professional experience with Statista as a researcher for the Editorial Research Intelligence Department. We researched and prepared domain-specific dossiers on topics from the effects of the George Floyd killing to the cost of European monarchies. Upon joining the team, my writing reduced the turnaround for the drafting phase by over half, with fewer revision requests from the editorial team.
 
+English is my mother tongue, and my German is advanced (B2/C1, depending on the day). I also speak intermediate Spanish (B1) and basic French (A2).
+
 ## Coding
 My primary language has been MATLAB. Both my computational economics courses required it, and I used it for my master's thesis. I have also worked in projects using R, Python, Stata, EViews, Gauss, and Excel. A few assignments required knowledge in C++, implemented using the RCPP wrapper.
 
