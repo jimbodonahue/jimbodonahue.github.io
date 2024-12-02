@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "James Donahue and his Scribblings"
+title: "James Donahue"
 email: jimbodonahue@gmail.com
 description: "I am just your average macroeconomist who goes deep into the labor market, programming, Bayesian statistics (and data analytics in general), vermicomposting, international relations, and folk music."
 #twitter_username: "jimbodonahue"
