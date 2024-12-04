@@ -1,5 +1,5 @@
 ---
-title: "Data Exploration with Tableau"
+title: "Dashboard in Tableau"
 # excerpt_separator: "<!--more-->"
 categories:
   - Blog
