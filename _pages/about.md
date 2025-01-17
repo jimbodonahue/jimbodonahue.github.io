@@ -2,26 +2,35 @@
 permalink: /about/
 title: "About"
 ---
-### Job market status
-I am currently on the job market. If you are reading this and want to employ me, remotely or in the greater Hamburg area, please get in contact. Ich kann auch Deutsch sprechen, falls das relevant ist (Niveau B2). A link to my CV should appear on this site, or you can [email me](mailto:jimbodonahue@gmail.com).
+# Job market status
+I am currently on the job market. If you are reading this and want to employ me, remotely or in the greater Hamburg area, please get in contact. A link to my CV should appear on this site, or you can [email me](mailto:jimbodonahue@gmail.com).
 
-### Mathematical methods
-I have an interest in computational methods, particularly numerical integration needed to perform Bayesian analysis. My expertise lies in time series analysis, with experience in hidden Markov models, time varying parameters, and stochastic volatility. I have also used panel data, including dynamic panels. I am familiar with machine learning techniques. However, for small and medium data sets, I prefer methods which keep the model intuitive and do not run the risk of bad controls and other mishaps in causal inference. Naturally, if the objective is purely predictive and not causal, I relax this constraint.
+# James as a Data Scientist
 
-After consulting with my flatmate, a computer science major, through her data analytics course, I have come to realize that my time in economics has endowed me with data instincts. I intuitively grasp issues such as handling outliers and missing values, which statistical methods fit the situation, and when it is important to clean or regularize the data. My background in computational methods also helped in explaining why certain machine learning algorithms took more time. Finally, years of reading documentation and Stack Exchange showed me how to figure out when these methods are being used, and how to select faster options.
+## Background
+My empirical prowess stems from my economics education. After the two-year Masters of Science in Economics program at the Universität Hamburg, I began a PhD at the Graduate School of Economics, Finance, and Management in Frankfurt. My first two years were coursework, including advanced econometrics, time series analysis, and Bayesian inference.
 
-### Programming abilities
-My primary language has so far been Matlab/Octave, but I would like to transition to something more common. To this end, I have been deepening my R and Python skills. In addition to employing statistical methods, I also want to design dashboards, implement web scraping and utilize APIs. After reading Edward Tufte (as we all should) I developed strong opinions on data visualization and plan on implementing them in anything I publish. As someone transitioning from academia to the private sector, my programming skills are likely slower than that of my peers. However, my theoretical knowledge is sufficient, and I expect to progress quickly in any role.
+I also have professional experience with Statista as a researcher for the Editorial Research Intelligence Department. We researched and prepared domain-specific dossiers on topics from the effects of the George Floyd killing to the cost of European monarchies. Upon joining the team, my writing reduced the turnaround for the drafting phase by over half, with fewer revision requests from the editorial team.
 
-My relationship with Excel is complicated. Generally speaking, I would rather use SQL to store data and another program to process it. However, I realize that we are in an Excel world and have done my best to comply. I have similar feelings about Word and LaTeX.
+English is my mother tongue, and my German is advanced (B2/C1, depending on the day). I also speak intermediate Spanish (B1) and basic French (A2).
 
-### Economics
-My economic research focuses on the labor market from a macroeconomic perspective. My current project involves using Bayesian methods to cluster heterogeneous workers by income process. This method allows me to condition clustering on the heterogeneity, rather than other characteristics. With this in hand I can return to the data and evaluate how the algorithm separated the groups in relation to gender, age, race, union membership, and other traits which were not included in the original algorithm and therefore cannot be bad controls.
+## Coding
+My primary language has been MATLAB. Both my computational economics courses required it, and I used it for my master's thesis. I have also worked in projects using R, Python, Stata, EViews, Gauss, and Excel. A few assignments required knowledge in C++, implemented using the RCPP wrapper.
 
-### International experience
-After completing my undergraduate degree in my home state of Tennessee, USA, I have lived and worked (i.e. had a job and mailing address) in Chile, China, Cambodia, Costa Rica, Germany, and Israel. My work was in a number of sectors (English teaching, tourism, hospitality, NGO fundraising). This career change reflects two things: my changing interests and ability to adapt quickly. As an employer, the first may give you pause, but I assure you that if I can continue to develop, I have no problem staying with the same firm (see my 12 summers with Wildwater, Ltd). The second is purely an advantage, and merits more discussion.
+In my personal time, I have also learned SQL and Tableau, as well as general use commands in Bash (Linux). My mathematics background has helped immensely, and I continue to develop in this direction through MOOCs and research.
 
-In 2010, I arrived in Cambodia with no contacts, business or social, and little teaching experience. In just three months, I filled my schedule as an English teacher, built a strong social network, and learned much about the local culture. A month later I was promoted as a leading teacher for one of my employers, evidence of the rapid development of my pedagogic ability. While this is the most extreme example, it is not the only time my curiosity and autodidactic skills carried me through. Starting my economics master's in Hamburg, I had to learn linear algebra, real analysis, and integral calculus, all topics not covered in my bachelor's. I concluded the degree with a thesis which implemented both an empirical and theoretical economic model. Even when I was working as a river guide, I learned how to drive a bus. Along these lines, I plan to be the go-to in my next company.
+## Methods
+My preferred method is the vector autoregressive model (VAR). It is both straightforward and versatile, and Bayesian methods enable calculation of a vast number of variables without losing degrees of freedom. I am also particularly interested in latent variable models, whether they be state-space time series models, logit regressions, or factor analysis. As an economist, causality is a constant question. As such, experimental design for A/B tests and other data-gathering schemes comes natural.
 
-### Other interests
+I consider myself a senior data scientist trapped in a junior analyst's body. I have programmed the Metropolis Hastings algorithm from scratch in Matlab and tweaked parameters in the R source code. However, I am still finding my feet in packages like Pandas and scikit-learn. In other words, I am the opposite of a recent IT bootcamp graduate. My coding is a little slower, but I understand advanced methods easily and have seen a wide range of data types in the wild.
+
+## Seemingly Unrelated Work History
+Before returning to academia for my masters, I lived and worked on four continents. Jobs included tourism, English teaching, managing a hostel, and nonprofit fundraising. While these were chosen more as a way to fuel my desire for international experience, I took each position seriously, delving deep into the topics offered.
+
+Through this, I have developed a range of skills which have benefited me in surprising ways. First and foremost, living so long in such different cultural contexts required flexibility and self-reliance. Secondly, as these were all public-facing positions, they developed my communication skills in all contexts, from written to large presentations. Finally, I have accumulated a library of background knowledge that I use to contextualize my current projects.
+
+## Other interests
 I identify as a nerd and throw myself into topics as they catch me. This has included international relations, linguistics, history, ecology, composting (particularly vermicompost), and whitewater kayaking. By no means am I an expert in these, with the exception of whitewater, but I find it useful to keep myself entertained. It also fuels my creativity.
+
+### The reason for leaving my PhD Program
+The elephant in the room is that I am leaving my PhD studies for a traditional job. I love research, but the academic stress during the coursework phase led to a burnout. In the course of working through that, I have elected to seek a path with a better work/life balance. This does not mean I refuse to work late for a big project on occasion, but that I do not want consistent 60-70 hour weeks. I am happy to talk more openly in a personal context.
