@@ -1,5 +1,5 @@
 ---
 layout: home
 title: Blog
-subtitle: Insights, updates, and stories from Jim's Data Gym
+subtitle: Insights, updates, and stories that I might put in from time to time
 ---

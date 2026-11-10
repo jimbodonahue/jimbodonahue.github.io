@@ -18,4 +18,4 @@ If you've ever talked to a data expert, you might have noticed that they have a 
 
 Some of this is driven by knowing the theory, but much comes from experience. Our second major goal is to introduce users to "workout buddies." Of course, "buddies" are not actual people, but rather real data sets, with exercises to show you their unique characteristics. As learners get to know these buddies better, they will start to see the similarities and differences between data sources. This will, in turn, hone their instincts, further preparing them for the data world.
 
-All of this is still being built, and our staff is rather limited. But please drop us a line if you have questions, suggestions, or want to get involved! jimbodonahue@gmail.com
+All of this is still being built, and our staff is rather limited. But please drop us a line if you have questions, suggestions, or want to get involved! james@jimsdatagym.com
