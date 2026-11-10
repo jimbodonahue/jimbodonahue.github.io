@@ -2,13 +2,12 @@
 permalink: /impressum-en/
 title: "Site Notice"
 language: en
-layout: single
+layout: page
 ---
 
 <h1>Site Notice</h1>
 <h2>Information provided according to Sec. 5 German Digital Services Act (DDG):</h2>
-<p>Jims Data Gym<br />
-Sole proprietor: James Donahue<br />
+<p>James Donahue<br />
 Vogelhuettendeich 114<br />
 21107 Hamburg</p>
 <h2>Contact:</h2>

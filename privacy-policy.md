@@ -2,15 +2,14 @@
 permalink: /privacy-policy/
 title: "Datenschutzerklärung"
 language: de
-layout: single
+layout: page
 ---
 
 <h1>Datenschutzerklärung</h1>
 
 <h2>1. Verantwortlicher</h2>
 <p>Verantwortlich für die Datenverarbeitung auf dieser Website ist:</p>
-<p>Jims Data Gym<br />
-Inhaber: James Donahue<br />
+<p>James Donahue<br />
 Vogelhuettendeich 114<br />
 21107 Hamburg<br />
 E-Mail: jimbodonahue@gmail.com</p>

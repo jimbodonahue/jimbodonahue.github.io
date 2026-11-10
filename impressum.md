@@ -2,13 +2,12 @@
 permalink: /impressum/
 title: "Impressum"
 language: de
-layout: single
+layout: page
 ---
 
 <h1>Impressum</h1>
 <h2>Angaben gemäß § 5 DDG:</h2>
-<p>Jims Data Gym<br />
-Inhaber: James Donahue<br />
+<p>James Donahue<br />
 Vogelhuettendeich 114<br />
 21107 Hamburg</p>
 <h2>Kontakt:</h2>

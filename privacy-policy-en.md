@@ -2,15 +2,14 @@
 permalink: /privacy-policy-en/
 title: "Privacy Policy"
 language: en
-layout: single
+layout: page
 ---
 
 <h1>Privacy Policy</h1>
 
 <h2>1. Controller</h2>
 <p>The controller responsible for data processing on this website is:</p>
-<p>Jims Data Gym<br />
-Sole proprietor: James Donahue<br />
+<p>James Donahue<br />
 Vogelhuettendeich 114<br />
 21107 Hamburg, Germany<br />
 Email: jimbodonahue@gmail.com</p>
